@@ -135,8 +135,8 @@ class RoomCard extends StatelessWidget {
                       currency: currency,
 
                       sandboxMode: true,
-                      paypalClientId: "ATVF9Vb5xfE6CoS-UE8oSD8SG_YIC2jCJBOjZ7IOCLgarV-WmygB3H_Owf4EjFxshxiP6tMbnnEWUFYJ",
-                      paypalSecret: "EII2zxQig_w4xzkJLIrNplRlxcQ6O7TuANsHIB4W8oHZMPfaaq_3RAojikx0sGTs41iqq3hDySZANhBv",
+                      paypalClientId: "",
+                      paypalSecret: "",
                     );
 
                   },
